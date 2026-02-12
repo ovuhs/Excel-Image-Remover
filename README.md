@@ -23,18 +23,18 @@ To run this script, you need Python installed on your system. It uses the `openp
 
 Install the required dependency:
 
-Bash
+ ```bash
 pip install -r requirements.txt
 
 💻 Usage
 Run the script:
 
-Bash
+ ```bash
 python main.py
+
+
 A window will pop up asking you to select an Excel file.
-
 Choose your file, and the script will process it immediately.
-
 The cleaned file will be saved in the same folder as YourFile_no_images.xlsx.
 
 ⚠️ Note
