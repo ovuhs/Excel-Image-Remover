@@ -20,3 +20,25 @@ To run this script, you need Python installed on your system. It uses the `openp
    ```bash
    git clone [https://github.com/ovuhs/Excel-Image-Remover.git](https://github.com/ovuhs/Excel-Image-Remover.git)
    cd Excel-Image-Remover
+
+Install the required dependency:
+
+Bash
+pip install -r requirements.txt
+
+💻 Usage
+Run the script:
+
+Bash
+python main.py
+A window will pop up asking you to select an Excel file.
+
+Choose your file, and the script will process it immediately.
+
+The cleaned file will be saved in the same folder as YourFile_no_images.xlsx.
+
+⚠️ Note
+This script removes all images (logos, charts saved as images, screenshots) from the workbook. It does not affect charts generated from data within Excel.
+
+📝 License
+This project is open-source and free to use.
