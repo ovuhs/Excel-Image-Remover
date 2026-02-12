@@ -21,10 +21,12 @@ To run this script, you need Python installed on your system. It uses the `openp
    git clone [https://github.com/ovuhs/Excel-Image-Remover.git](https://github.com/ovuhs/Excel-Image-Remover.git)
    cd Excel-Image-Remover
 
+
 Install the required dependency:
 
  ```bash
 pip install -r requirements.txt
+
 
 💻 Usage
 Run the script:
